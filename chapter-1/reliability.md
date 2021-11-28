@@ -16,7 +16,7 @@
 
 - Having Hard disks being setup in a RAID configuration, where RAID stands for Random Array of Independent disks
 - RAID 5 has 3 drives, in which one drive is called parity drive, which in case of any failure starts building up the lost data. 
-- Single server systems have planned downtime, the messages that you receive that "We shall remain unavailable during these hours, inconvenience is regretted" is because the underlying system is single server and in order to upgrade it, they have to stop the traffic. 
+- Single server systems have planned downtime, the messages that you receive that "We shall remain unavailable during these hours, inconvenience is regretted" is because the underlying system is single server (mostly) and in order to upgrade it, they have to stop the traffic. 
 
 
 ## Software Reliability 
